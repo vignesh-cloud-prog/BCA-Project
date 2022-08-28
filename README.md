@@ -1,4 +1,4 @@
-# 👨‍🎓BCA - Project
+﻿# 👨‍🎓BCA - Project
 
 # **1. Introduction**
 ## **1.1 Introduction of the System** 
@@ -89,7 +89,7 @@ Allows the users to share reviews on a shop.
 
 **
 ## **1.6 System Architecture** 
-![](Aspose.Words.414c9e1e-afd4-48bd-9a32-c1bd06f67ca6.001.png)
+![](system-architecture-diagram.png)
 
 **Fig.No: 1.1 - System Architecture**
 <!-- ![](Aspose.Words.414c9e1e-afd4-48bd-9a32-c1bd06f67ca6.002.png) -->
