@@ -12,7 +12,7 @@ Bablus is an application that helps users to find the Salon and beauty parlors a
 In a modern busy day-to-day life, it is always convenient to look for services that one requires through mobile phones is the best practice to save time and effort. Bablus is designed using cutting-edge technologies that help users to find solutions at their fingertips. The app is user-friendly, convenient, free of cost, and adds value to its users' needs.
 ## **1.2 Background** 
 ### **1.2.1 Introduction of the Company** 
-`      `Not applicable
+Not applicable
 ### **1.2.2 Brief note on Existing System** 
 Currently a person, who wishes to have saloon service, will go to his nearby saloon shops and ask for a seat booking and wait for some time if it’s not available. After some time when his number comes then, he can avail of the service.
 ## **1.3 Objectives of the System** 
@@ -31,7 +31,7 @@ Allows new users to register on the application
 
 **1.5.1.2 Login**
 
-`                       	`Helps existing users to login into the application
+Helps existing users to login into the application
 
 **1.5.1.3 Forget Password**
 
