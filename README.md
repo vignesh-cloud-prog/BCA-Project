@@ -107,7 +107,7 @@ Allows the users to share reviews on a shop.
 
 1.8.1.4  Database: **MongoDB**
 
-1.8.1.5  Version: **MongoDB**
+1.8.1.5  Version control: **Git, GitHub**
 ### **1.8.2 Hardware**
 - Laptop with processor i3 or higher, any operating system, with at least 4GB of RAM, and minimal storage of Hard Disk Drive or Solid-State Drive.
 - Mobile Device
