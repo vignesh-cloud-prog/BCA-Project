@@ -1,4 +1,6 @@
-﻿# **1. Introduction**
+# BCA - Project
+
+# **1. Introduction**
 ## **1.1 Introduction of the System** 
 ### **1.1.1 Project Title:**
 Bablus (Saloon Booking App)
@@ -87,86 +89,10 @@ Allows the users to share reviews on a shop.
 
 **
 ## **1.6 System Architecture** 
-
-**User**
-
-**GUI**
-
-Menu
-
-Tools
-
-Textbox
-
-Buttons
-
-**Saloons Booking System**
-
-Authentication/Login
-
-Shop Registration
-
-Shop overview, services and contact
-
-Appointment booking
-
-Reviews and ratings
-
-Shop listing
-
-
-
-**Database**
-
-**Operating System**
-
-**Processing Hardware**
-
-
-
-
-System Level
-
-**Secondary Storage Devices**
-
-
-User Level
-
-Application Level
 ![](Aspose.Words.414c9e1e-afd4-48bd-9a32-c1bd06f67ca6.001.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Fig.No: 1.1 - System Architecture**
-![](Aspose.Words.414c9e1e-afd4-48bd-9a32-c1bd06f67ca6.002.png)
+<!-- ![](Aspose.Words.414c9e1e-afd4-48bd-9a32-c1bd06f67ca6.002.png) -->
 ## **1.7 End Users** 
 - Admin who is managing the whole system
 - Shop owner and members running saloon services
