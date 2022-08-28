@@ -5,7 +5,7 @@
 ### **1.1.1 Project Title:**
 Bablus (Saloon Booking App)
 ## **1.1.2 Category:**	
-Mobile Application 
+Cross Platform Application 
 ### **1.1.3 Overview** 
 Bablus is an application that helps users to find the Salon and beauty parlors around by searching pin code, address, or location. The application allows users to find the best service centers in various locations based on the reviews and ratings. The primary objective of the platform includes booking a service or an appointment.
 
