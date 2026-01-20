@@ -1,4 +1,4 @@
-﻿# 👨‍🎓BCA - Project
+﻿# 👨‍🎓Bachelor of Computer Applications - Project
 
 # **1. Introduction**
 ## **1.1 Introduction of the System** 
